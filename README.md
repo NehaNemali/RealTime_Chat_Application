@@ -1,10 +1,10 @@
 # Real Time Chat Application Using Mern Stack
 
-Name: Hruthwik Rajesh Kusuma
+Name: Nemali Neha Reddy
 
-Roll: 2201CS43
+Roll: 2201EE41
 
-Dept.: Computer Science and Engineering
+Dept.: Electrical and Electronics Engineering
 
 University: IIT Patna
 
